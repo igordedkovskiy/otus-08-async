@@ -1,4 +1,4 @@
-# homework-08: otus-08-async: async shared lib
+# otus homework #8 - async shared lib
 
 ## Howto
     Get handler by invoking connect function. Argument is a size of a block of commands.
